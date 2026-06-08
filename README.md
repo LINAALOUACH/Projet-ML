@@ -1,19 +1,13 @@
-# Student Performance ML Project
+# Projet Machine Learning – Students Performance
 
-## Description
-Projet Machine Learning sur les performances des étudiants.
+Ce projet applique différentes techniques de Machine Learning sur le dataset Students Performance afin d'analyser et de prédire les performances scolaires des étudiants.
 
-## Techniques utilisées
-- Regression
-- Classification
-- Clustering
+Les travaux réalisés incluent :
 
-## Modèles
-- Linear Regression
-- Decision Tree
-- KNN
-- KMeans
+L'exploration et le prétraitement des données.
+La régression pour prédire les notes des étudiants.
+La classification pour prédire la réussite scolaire.
+Le clustering pour identifier différents profils d'étudiants.
+Les résultats obtenus montrent de bonnes performances, notamment avec Linear Regression et Ridge Regression en régression (R² > 0.88) ainsi qu'avec Logistic Regression en classification (Accuracy = 96 %).
 
-## Résultats
-- R2 = 0.88
-- Accuracy = 0.97
+Technologies utilisées : Python, Pandas, NumPy, Matplotlib, Seaborn et Scikit-learn.
